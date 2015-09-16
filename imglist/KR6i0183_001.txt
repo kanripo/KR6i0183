@@ -1,0 +1,5 @@
+001-0896a09	TKD 19-0737c	buddhist/K-koreana/19-tif/0700-0799/19_0737_C.TIF
+001-0896a28	TKD 19-0738a	buddhist/K-koreana/19-tif/0700-0799/19_0738_A.TIF
+001-0896b19	TKD 19-0738b	buddhist/K-koreana/19-tif/0700-0799/19_0738_B.TIF
+001-0896a00	T 001-0896a	buddhist/T-taisho/T14/08/T14-0896.png
+001-0896b00	T 001-0896b	buddhist/T-taisho/T14/08/T14-0896.png
