@@ -1,24 +1,23 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:12:07.410782
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:49
 #+TITLE: 佛說摩登女解形中六事經
 #+PROPERTY: CBETA_ID T14n0552
 #+PROPERTY: ID KR6i0183
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 552
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0183_T_000-0895c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0183_T_001-0895c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.552[No.551]¶
-
- 佛說摩登女解形中六事經¶
+No. 552 [No. 551]¶
+佛說摩登女解形中六事經¶
 ¶
 失譯附東晉錄¶
 
-佛在舍衛祗阿難邠坻阿藍。時阿難持鉢行¶
+佛在舍衛祇阿難邠坻阿藍。時阿難持鉢行¶
 乞食，以隨水行，見一女人在水邊持水去，¶
 阿難從乞水，女則與之。女便隨阿難，至居¶
 所處。
@@ -54,7 +53,7 @@ No.552[No.551]¶
 
 阿難自鄙作沙門，今日反在中，不能得¶
 出，即叉手呼佛。佛即知之，使神脫阿難。阿¶
-難至佛所言：「昨日行乞食，於水邊見一女人，¶
+難至佛所言：作日行乞食，於水邊見一女人，¶
 我從乞水。明日有人名摩登，請我歸飯，我出¶
 便牽我，欲持女與我為婦；我持佛戒，不得畜¶
 妻。」
